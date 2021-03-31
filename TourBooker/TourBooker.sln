@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourBooker.Logic", "TourBooker.Logic\TourBooker.Logic.csproj", "{FD575E21-1949-47C1-B6B5-7A3D7D60D353}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourBooker.UI", "TourBooker.UI\TourBooker.UI.csproj", "{5958478D-1CC8-4064-9519-AEF307D62C88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD575E21-1949-47C1-B6B5-7A3D7D60D353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD575E21-1949-47C1-B6B5-7A3D7D60D353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD575E21-1949-47C1-B6B5-7A3D7D60D353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD575E21-1949-47C1-B6B5-7A3D7D60D353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5958478D-1CC8-4064-9519-AEF307D62C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5958478D-1CC8-4064-9519-AEF307D62C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5958478D-1CC8-4064-9519-AEF307D62C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5958478D-1CC8-4064-9519-AEF307D62C88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4B0DDC6-59DE-4362-B4D0-1F1E42BB17F6}
+	EndGlobalSection
+EndGlobal

@@ -44,7 +44,15 @@ namespace BankHolidays {
                 new DateTime(2021, 12, 27),
                 new DateTime(2021, 12, 28),
             };
+            bankHolsLst.RemoveAt(0);
+
             bankHolsLst.Add(new DateTime(2021, 4, 1));
+
+            // lst is of type List<Something>
+            //for (int i = bankHolsLst.Count - 1; i >= 0; i--) {
+            //    if (someExpression(bankHolsLst[i]))
+            //        bankHolsLst.RemoveAt(i);
+            //}
 
             //Console.WriteLine($"equal values? {bankHols1.SequenceEqual(bankHols2)}");
         }

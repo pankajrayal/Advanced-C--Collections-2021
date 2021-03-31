@@ -1,0 +1,6 @@
+C:\D-Drive\Pankaj\Learning\code\DotNet\Advanced C# Collections\TourBooker\TourBooker.Logic\bin\Debug\TourBooker.Logic.dll
+C:\D-Drive\Pankaj\Learning\code\DotNet\Advanced C# Collections\TourBooker\TourBooker.Logic\bin\Debug\TourBooker.Logic.pdb
+C:\D-Drive\Pankaj\Learning\code\DotNet\Advanced C# Collections\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.csprojAssemblyReference.cache
+C:\D-Drive\Pankaj\Learning\code\DotNet\Advanced C# Collections\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.csproj.CoreCompileInputs.cache
+C:\D-Drive\Pankaj\Learning\code\DotNet\Advanced C# Collections\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.dll
+C:\D-Drive\Pankaj\Learning\code\DotNet\Advanced C# Collections\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.pdb
